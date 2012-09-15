@@ -9,6 +9,9 @@
 <body>
 
 <h1> Hello world </h1>
+<form action="test" method="post">
+	<input type="submit" value="Submit" />
+</form>
 
 </body>
 </html>
